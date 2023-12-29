@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@egjs/vue3-view3d": "^2.3.1",
+    "cesium": "^1.112.0",
     "normalize.css": "^8.0.1",
     "three": "^0.160.0"
   }
